@@ -9,16 +9,10 @@ https://www.docker.com
 1. Склонировать репозиторий с api
 
    ```
-   git clone git@github.com:fra1m/version_TZ.git
+   git@github.com:fra1m/TestLesson.git
    ```
 
-2. Перейдите в папку где лежит файл docker-compose.yml
-
-   ```
-   cd version_TZ
-   ```
-
-3. Сбилдите контейнер
+2. Сбилдите контейнер
    ```
    docker-compose up --build
    ```
